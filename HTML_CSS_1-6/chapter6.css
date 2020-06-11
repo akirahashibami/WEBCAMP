@@ -1,0 +1,25 @@
+.boxes{
+	width: 100%;
+}
+
+.box{
+	height: 200px;
+	background-position: center;
+	background-size: cover;
+}
+
+.box1{
+	background-image: url(img/box1.jpg);
+}
+
+.box2{
+	background-image: url(img/box2.jpg);
+}
+
+.box3{
+	background-image: url(img/box3.jpg);
+}
+
+.box4{
+	background-image: url(img/box4.jpg);
+}
