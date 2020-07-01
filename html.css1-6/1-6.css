@@ -1,0 +1,25 @@
+.season{
+	widows: 100%;
+}
+
+.box{
+	background-size: cover;
+	background-position: center;
+	height: 200px;
+}
+
+.spring{
+	background-image: url(img/box1.jpg);
+}
+
+.summer{
+	background-image: url(img/box2.jpg);
+}
+
+.autam{
+	background-image: url(img/box3.jpg);
+}
+
+.winter{
+	background-image: url(img/box4.jpg);
+}
